@@ -1,6 +1,6 @@
 # VGA DRIVER CIRCUIT
 
-This is the VGA Driver I produced for a University Assignment. It works on a 25MHz pixel clock.
+This is the VGA Driver I designed for the Xilinx Basys3 FPGA board, which is based on the Artix-7. The circuit works on a 25MHz pixel clock.
 
 ## Development Platform
 
